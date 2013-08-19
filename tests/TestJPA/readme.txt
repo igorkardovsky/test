@@ -29,3 +29,12 @@ Example
 
 -Dderby.system.home=C:\derby
 
+Атоматическое создие таблиц Hibernate
+http://stackoverflow.com/questions/306806/hibernate-automatically-creating-updating-the-db-tables-based-on-entity-classes
+
+Where do I put META-INF in Eclipse?
+http://stackoverflow.com/questions/9998360/where-do-i-put-meta-inf-in-eclipse
+
+Hibernate JPA Tutorial
+http://courses.coreservlets.com/Course-Materials/hibernate.html
+
