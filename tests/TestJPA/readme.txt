@@ -29,6 +29,13 @@ Example
 
 -Dderby.system.home=C:\derby
 
+
+Hibernate JPA
+http://docs.jboss.org/hibernate/core/4.3/quickstart/en-US/html/ch04.html
+
+Hibernate Docs
+http://docs.jboss.org/hibernate/core/4.3/
+
 Атоматическое создие таблиц Hibernate
 http://stackoverflow.com/questions/306806/hibernate-automatically-creating-updating-the-db-tables-based-on-entity-classes
 
